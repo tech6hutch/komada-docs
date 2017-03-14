@@ -89,3 +89,4 @@ spambot.conf set modRole @Admin :: Sets the moderator role to the Admin role (By
 - `channel` : A channel object returned from the channel ID or channel tag.
 - `guild` : A guild object returned from the guild ID.
 - `user`, `mention` : A user object returned from the user ID or mention.
+- `member` : A guild member object returned from the user ID or mention.
